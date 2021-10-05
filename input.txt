@@ -1,0 +1,2 @@
+Even though we do not     want    all users to have god powers, on some rare occasions, we may need the
+deploy user to run root-level commands such as adding a new database
